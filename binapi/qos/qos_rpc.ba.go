@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 
-	api "git.fd.io/govpp.git/api"
 	memclnt "github.com/networkservicemesh/govpp/binapi/memclnt"
+	api "git.fd.io/govpp.git/api"
 )
 
 // RPCService defines RPC service qos.
